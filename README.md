@@ -1,4 +1,4 @@
 # GitTraining
 For training folk
 
-## Ctreated by Dave
+## Created by Dave

@@ -187,3 +187,24 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+#######################################
+# TechOne directories to ignore
+#######################################
+
+# All of t1config
+t1config/
+
+# All except vb.net
+!dev/vb.net
+
+!rts/crystal
+!rts/config
+
+
+
+
+
+
+
+
